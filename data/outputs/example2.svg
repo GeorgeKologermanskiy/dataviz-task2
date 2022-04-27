@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="140" height="140" viewBox="0 -140 140 140">
+<defs>
+</defs>
+<path d="M20.0,-120 L30.0,-100" fill="none" stroke="green" />
+<path d="M20.0,-120 L50.0,-100" fill="none" stroke="green" />
+<path d="M40.0,-120 L30.0,-100" fill="none" stroke="green" />
+<path d="M40.0,-120 L50.0,-100" fill="none" stroke="green" />
+<path d="M20.0,-80 L50.0,-60" fill="none" stroke="green" />
+<path d="M30.0,-100 L20.0,-80" fill="none" stroke="green" />
+<path d="M30.0,-100 L40.0,-80" fill="none" stroke="green" />
+<path d="M30.0,-100 L60.0,-80" fill="none" stroke="green" />
+<path d="M50.0,-100 L80.0,-80" fill="none" stroke="green" />
+<path d="M50.0,-100 L100.0,-80" fill="none" stroke="green" />
+<path d="M50.0,-100 L60.0,-80" fill="none" stroke="green" />
+<path d="M50.0,-100 L120.0,-80" fill="none" stroke="green" />
+<path d="M50.0,-60 L20.0,-40" fill="none" stroke="green" />
+<path d="M30.0,-60 L20.0,-40" fill="none" stroke="green" />
+<path d="M30.0,-60 L40.0,-40" fill="none" stroke="green" />
+<path d="M60.0,-80 L30.0,-60" fill="none" stroke="green" />
+<path d="M70.0,-60 L40.0,-40" fill="none" stroke="green" />
+<path d="M20.0,-40 L30.0,-20" fill="none" stroke="green" />
+<path d="M40.0,-40 L30.0,-20" fill="none" stroke="green" />
+<path d="M40.0,-80 L30.0,-60" fill="none" stroke="green" />
+<path d="M100.0,-80 L50.0,-60" fill="none" stroke="green" />
+<path d="M120.0,-80 L70.0,-60" fill="none" stroke="green" />
+<circle cx="20.0" cy="-120" r="3" fill="red" />
+<circle cx="40.0" cy="-120" r="3" fill="red" />
+<circle cx="30.0" cy="-100" r="3" fill="blue" />
+<circle cx="50.0" cy="-100" r="3" fill="blue" />
+<circle cx="20.0" cy="-80" r="3" fill="blue" />
+<circle cx="60.0" cy="-80" r="3" fill="blue" />
+<circle cx="80.0" cy="-80" r="3" fill="blue" />
+<circle cx="30.0" cy="-60" r="3" fill="blue" />
+<circle cx="50.0" cy="-60" r="3" fill="blue" />
+<circle cx="70.0" cy="-60" r="3" fill="blue" />
+<circle cx="20.0" cy="-40" r="3" fill="blue" />
+<circle cx="40.0" cy="-40" r="3" fill="blue" />
+<circle cx="30.0" cy="-20" r="3" fill="blue" />
+</svg>
